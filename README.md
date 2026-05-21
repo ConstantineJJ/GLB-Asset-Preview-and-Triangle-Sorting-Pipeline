@@ -2,6 +2,8 @@
 
 This workspace contains a Windows-friendly batch pipeline for browsing and organizing `.glb` assets without opening Blender manually for every model.
 
+Documentation note: the README text was generated with assistance from GitHub Copilot (GPT-5.4) and then included in this repository for public use.
+
 The tool does two jobs:
 
 1. Generates preview images next to `.glb` files.
